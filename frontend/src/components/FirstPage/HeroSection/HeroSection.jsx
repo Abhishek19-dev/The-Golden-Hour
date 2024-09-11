@@ -6,6 +6,9 @@ import FourthScreen from './FourthScreen';
 import FifthScreen from './FifthScreen';
 import SixScreen from './SixthScreen';
 import SeventhScreen from './SeventhScreen';
+import EightScreen from './EigthScreen';
+import NinthScreen from './NinthScreen';
+import TenthScreen from './TenthScreen';
 
 const HeroSection = () => {
   return (
@@ -17,6 +20,9 @@ const HeroSection = () => {
        <FifthScreen />
        <SixScreen />
        <SeventhScreen />
+       <EightScreen />
+       <NinthScreen />
+       <TenthScreen />
     </>
   );
 };
